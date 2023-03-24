@@ -1,0 +1,141 @@
+{
+  "language": [
+    {
+      "id": 1,
+      "name": "Airmart",
+      "desc": "This is Grocery app",
+      "price": 100,
+      "color": "#33505a",
+      "images": "https://code.market/_next/image?url=https%3A%2F%2Fgraphql.code.market%2Fwp-content%2Fuploads%2F2022%2F10%2Fss_small01-1.png&w=1920&q=75",
+      "appdesc" : "Looking for a visually appealing Flutter eCommerce template? We have showcased through full application themes you find today that are still actively updated and maintained. In the following paragraphs, you will be able to investigate all about amazing eCommerce category application themes. Our short article will scrutinize you decide the application themes that best fits for you. Each of them has specific elements that will be useful for the kind of both platform iOS & Android apps you want to start. All are easily convertible and adaptive for your purpose. In this article we assemble for you Airmart – Flutter eCommerce template.",
+      "f_image": "https://code.market/_next/image?url=https%3A%2F%2Fgraphql.code.market%2Fwp-content%2Fuploads%2F2020%2F12%2Fflutter-ecommerce-template-iPhone-12-2021-01-27-at-09.50.00.jpg&w=750&q=75",
+      "s_image" :"https://code.market/_next/image?url=https%3A%2F%2Fgraphql.code.market%2Fwp-content%2Fuploads%2F2020%2F12%2FSimulator-Screen-Shot-iPhone-XR-2019-07-29-at-16.11.53-1.png&w=1920&q=75",
+      "t_image" : "https://code.market/_next/image?url=https%3A%2F%2Fgraphql.code.market%2Fwp-content%2Fuploads%2F2020%2F12%2Fflutter-ecommerce-template-iPhone-12-2021-01-27-at-09.50.13.jpg&w=1920&q=75",
+      "fo_image" : "https://code.market/_next/image?url=https%3A%2F%2Fgraphql.code.market%2Fwp-content%2Fuploads%2F2020%2F12%2Fflutter-ecommerce-template-iPhone-12-2021-01-27-at-09.49.52.jpg&w=1920&q=75",
+      "fi_image" : "https://code.market/_next/image?url=https%3A%2F%2Fgraphql.code.market%2Fwp-content%2Fuploads%2F2020%2F12%2Fflutter-ecommerce-template-iPhone-12-2021-01-27-at-09.49.27.jpg&w=750&q=75"
+    },
+    {
+      "id": 2,
+      "name": "Msphopping",
+      "desc": "This is shopping app",
+      "price": 100,
+      "color": "#33505a",
+      "images": "https://code.market/_next/image?url=https%3A%2F%2Fgraphql.code.market%2Fwp-content%2Fuploads%2F2022%2F10%2Fss_small01-1.png&w=1920&q=75",
+      "appdesc" : "MShopping – #1 Mall Shopping Flutter App with GetX and Admin Panel, Flutter v.3x Ready. (Null-Safety). MShopping is an online mall shopping app developed using Flutter. It is the best e-commerce store application and is ranked as the #1 e-commerce app with multi-vendor support. The app is compatible with both Android and iOS platforms and offers an elegant, lightweight, smooth, compact, and powerful user interface. MShopping uses GetX plugins for powerful stateless management, and 99% of the widgets used are stateless. Update v. 0.9.5 The app is compatible with Flutter v.3x, Flutter code has been revised and performance has been improved.",
+      "f_image": "https://code.market/_next/image?url=https%3A%2F%2Fgraphql.code.market%2Fwp-content%2Fuploads%2F2022%2F10%2Fss_small01-1.png&w=1920&q=75",
+      "s_image" :"https://code.market/_next/image?url=https%3A%2F%2Fgraphql.code.market%2Fwp-content%2Fuploads%2F2022%2F10%2Fss_small02.png&w=1920&q=75",
+      "t_image" : "https://code.market/_next/image?url=https%3A%2F%2Fgraphql.code.market%2Fwp-content%2Fuploads%2F2022%2F10%2Fss_small06.png&w=1920&q=75",
+      "fo_image" : "https://code.market/_next/image?url=https%3A%2F%2Fgraphql.code.market%2Fwp-content%2Fuploads%2F2022%2F10%2Fss_small05.png&w=1920&q=75",
+      "fi_image" : "https://code.market/_next/image?url=https%3A%2F%2Fgraphql.code.market%2Fwp-content%2Fuploads%2F2022%2F10%2Fss_small03.png&w=1920&q=75"
+
+
+    },
+    {
+      "id": 3,
+      "name": "Trevashop",
+      "desc": "by @jipaudeveloperauthor",
+      "price": 100,
+      "color": "#33505a",
+      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ77U7cbvfi7tZ4rDQS1oyTv55rR_gPHsIPptN2P1ZHYTugQ4igu9eRLU8dGqXl1z_h8jE&usqp=CAU",
+      "appdesc" : "Flutter E-Commerce UI KIT Template in flutter – Treva Shop. E-Commerce UI kit can be used for e-commerce applications in android and ios devices. It contains 32 Screens with a different type of UI, E-Commerce UI kit can save your time to code all Front end layout. Easy to connect with your back end.  ",
+      "f_image": "https://code.market/_next/image?url=https%3A%2F%2Fgraphql.code.market%2Fwp-content%2Fuploads%2F2020%2F12%2FSimulator-Screen-Shot-iPhone-XR-2019-07-29-at-16.12.03.png&w=1920&q=75",
+      "s_image" :"https://code.market/_next/image?url=https%3A%2F%2Fgraphql.code.market%2Fwp-content%2Fuploads%2F2020%2F12%2FSimulator-Screen-Shot-iPhone-XR-2019-07-29-at-16.23.33.png&w=640&q=75",
+      "t_image" : "https://code.market/_next/image?url=https%3A%2F%2Fgraphql.code.market%2Fwp-content%2Fuploads%2F2020%2F12%2FSimulator-Screen-Shot-iPhone-XR-2019-07-29-at-16.23.23.png&w=640&q=75",
+      "fo_image" : "https://code.market/_next/image?url=https%3A%2F%2Fgraphql.code.market%2Fwp-content%2Fuploads%2F2020%2F12%2FSimulator-Screen-Shot-iPhone-XR-2019-07-29-at-16.22.33.png&w=640&q=75",
+      "fi_image" : "https://code.market/_next/image?url=https%3A%2F%2Fgraphql.code.market%2Fwp-content%2Fuploads%2F2020%2F12%2FSimulator-Screen-Shot-iPhone-XR-2019-07-29-at-16.22.07.png&w=640&q=75"
+
+
+    },
+    {
+      "id": 4,
+      "name": "jay",
+      "desc": "hello jay",
+      "price": 100,
+      "color": "#33505a",
+      "images": "https://images.unsplash.com/photo-1519985176271-adb1088fa94c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=a0c8d632e977f94e5d312d9893258f59&auto=format&fit=crop&w=1355&q=80",
+      "appdesc" : "ahiya application vise lakhvanu che ",
+      "f_image": "https://code.market/_next/image?url=https%3A%2F%2Fgraphql.code.market%2Fwp-content%2Fuploads%2F2022%2F07%2FVegi-The-Ultimate-Grocery-Food-Milk-Ordering.jpg&w=640&q=75",
+      "s_image" :"https://code.market/_next/image?url=https%3A%2F%2Fgraphql.code.market%2Fwp-content%2Fuploads%2F2022%2F07%2FVegi-The-Ultimate-Grocery-Food-Milk-Ordering.jpg&w=640&q=75",
+      "t_image" : "",
+      "fo_image" : "",
+      "fi_image" : ""
+
+    },
+    {
+      "id": 5,
+      "name": "darshan",
+      "desc": "hello darshan",
+      "price": 100,
+      "color": "#33505a",
+      "images": "https://images.unsplash.com/photo-1519985176271-adb1088fa94c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=a0c8d632e977f94e5d312d9893258f59&auto=format&fit=crop&w=1355&q=80",
+      "appdesc" : "ahiya application vise lakhvanu che ",
+      "f_image": "https://code.market/_next/image?url=https%3A%2F%2Fgraphql.code.market%2Fwp-content%2Fuploads%2F2022%2F07%2FVegi-The-Ultimate-Grocery-Food-Milk-Ordering.jpg&w=640&q=75",
+      "s_image" :"https://code.market/_next/image?url=https%3A%2F%2Fgraphql.code.market%2Fwp-content%2Fuploads%2F2022%2F07%2FVegi-The-Ultimate-Grocery-Food-Milk-Ordering.jpg&w=640&q=75",
+      "t_image" : "",
+      "fo_image" : "",
+      "fi_image" : ""
+
+
+    },
+    {
+      "id": 6,
+      "name": "jay",
+      "desc": "hello jay",
+      "price": 100,
+      "color": "#33505a",
+      "images": "https://images.unsplash.com/photo-1519985176271-adb1088fa94c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=a0c8d632e977f94e5d312d9893258f59&auto=format&fit=crop&w=1355&q=80",
+      "appdesc" : "ahiya application vise lakhvanu che  ",
+      "f_image": "https://code.market/_next/image?url=https%3A%2F%2Fgraphql.code.market%2Fwp-content%2Fuploads%2F2022%2F07%2FVegi-The-Ultimate-Grocery-Food-Milk-Ordering.jpg&w=640&q=75",
+      "s_image" :"https://code.market/_next/image?url=https%3A%2F%2Fgraphql.code.market%2Fwp-content%2Fuploads%2F2022%2F07%2FVegi-The-Ultimate-Grocery-Food-Milk-Ordering.jpg&w=640&q=75",
+      "t_image" : "",
+      "fo_image" : "",
+      "fi_image" : ""
+
+    },
+    {
+      "id": 7,
+      "name": "jay",
+      "desc": "hello jay",
+      "price": 100,
+      "color": "#33505a",
+      "images": "https://images.unsplash.com/photo-1519985176271-adb1088fa94c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=a0c8d632e977f94e5d312d9893258f59&auto=format&fit=crop&w=1355&q=80",
+      "appdesc" : "ahiya application vise lakhvanu che  ",
+      "f_image": "https://code.market/_next/image?url=https%3A%2F%2Fgraphql.code.market%2Fwp-content%2Fuploads%2F2022%2F07%2FVegi-The-Ultimate-Grocery-Food-Milk-Ordering.jpg&w=640&q=75",
+      "s_image" :"https://code.market/_next/image?url=https%3A%2F%2Fgraphql.code.market%2Fwp-content%2Fuploads%2F2022%2F07%2FVegi-The-Ultimate-Grocery-Food-Milk-Ordering.jpg&w=640&q=75",
+      "t_image" : "",
+      "fo_image" : "",
+      "fi_image" : ""
+
+    },
+    {
+      "id": 8,
+      "name": "jay",
+      "desc": "hello jay",
+      "price": 100,
+      "color": "#33505a",
+      "images": "https://images.unsplash.com/photo-1519985176271-adb1088fa94c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=a0c8d632e977f94e5d312d9893258f59&auto=format&fit=crop&w=1355&q=80",
+      "appdesc" : "ahiya application vise lakhvanu che  ",
+      "f_image": "https://code.market/_next/image?url=https%3A%2F%2Fgraphql.code.market%2Fwp-content%2Fuploads%2F2022%2F07%2FVegi-The-Ultimate-Grocery-Food-Milk-Ordering.jpg&w=640&q=75",
+      "s_image" :"https://code.market/_next/image?url=https%3A%2F%2Fgraphql.code.market%2Fwp-content%2Fuploads%2F2022%2F07%2FVegi-The-Ultimate-Grocery-Food-Milk-Ordering.jpg&w=640&q=75",
+      "t_image" : "",
+      "fo_image" : "",
+      "fi_image" : ""
+
+    },
+    {
+      "id": 9,
+      "name": "jay",
+      "desc": "hello jay",
+      "price": 100,
+      "color": "#33505a",
+      "images": "https://images.unsplash.com/photo-1519985176271-adb1088fa94c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=a0c8d632e977f94e5d312d9893258f59&auto=format&fit=crop&w=1355&q=80",
+      "appdesc" : "ahiya application vise lakhvanu che  ",
+      "f_image": "https://code.market/_next/image?url=https%3A%2F%2Fgraphql.code.market%2Fwp-content%2Fuploads%2F2022%2F07%2FVegi-The-Ultimate-Grocery-Food-Milk-Ordering.jpg&w=640&q=75",
+      "s_image" :"https://code.market/_next/image?url=https%3A%2F%2Fgraphql.code.market%2Fwp-content%2Fuploads%2F2022%2F07%2FVegi-The-Ultimate-Grocery-Food-Milk-Ordering.jpg&w=640&q=75",
+      "t_image" : "",
+      "fo_image" : "",
+      "fi_image" : ""
+
+    }
+  ]
+}
